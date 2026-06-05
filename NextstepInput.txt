@@ -1,0 +1,23 @@
+Nella sezione "Meccanica" rimpicciolisci il testo NON IN GRASSETTO e fa si che entri tutto nel proprio riquadro.
+Modifica la funzione "Affetta", devo poter affettare a mio piacimento, senza restrizioni, sia selezioni multiple che singole, distanti o vicine.
+Aggiungi la funzione "Arrotonda" che permette di arrotondare gli spigoli dopo aver selezionato l' angolo interessato, devo poter decidere il grado di arrotondamento.
+Aggiungi numeri di misurazione alle tacche aggiunte precedentemente, al cerchio di rotazione GIZMO
+
+
+
+
+Accedi a tutti i codici opensource di programmi CAD e SKETCH che conosci per cercare, confrontare e quindi implementare ogni seguente richiesta:
+1) Nella sezione "MECCANICA" il testo "Filettatura interna/esterna" non si legge completamente, ridimensionala in modo che entri correttamente nel proprio riquadro di sezione.
+2) La casella di selezione "intero/esterno" ed il testo "Modalità" devono essere incolonnati e non affiancati.
+3) Controlla ed aggiusta il blocco della "Filettatura", funziona ma non svolge il proprio compito, di default deve adattarsi automaticamente alla forma selezionata per poi se necessario, di modificarla in seguito.
+4) Aggiungi primitive:  "Esagono", "Scatola Vuota".
+5) I tasti della tastiera "Z, X, C, V, Y," devono essere legati ai comandi rispettivamente : "Annulla, Taglia, Copia, Incolla, Ripeti".
+6) Centra i tasti della toolbar superiore.
+7) Il menù "Aiuto" spostalo dopo il menù "Opzioni".
+8) Aggiungi il tasto "Magneti" dopo "Snap" per avere l' opzione di di settare il comando secondo valori prestabiliti o disattivarlo. 9) Tutte le primitive devono essere di colore leggermente differente ma distinguibile, una dall' altra.
+10) Definisci ed aggiusta la primitiva "Arco", al momento compare come una sezione di disco con la base piatta; deve apparire come "un terzo di un cerchio vuoto con spessore" ovviamente senza base.
+11)Migliora visivamente la misurazione della rotazione aggiungendo un goniometro di colore giallo lungo i cerchi della funzione.
+12) I cerchi della rotazione devono essere visibili solo al passaggio del cursore o alla selezione della maniglia corrispondente.
+13) Aggiorna la sezione "Tutorial" implementando spiegazioni su tutte le funzioni possibili, aggiungi una leggenda per i colori delle maniglie dei comandi GIZMO.
+14) Elenca tutte le funzioni possibili con questo programma e definisci a chi può essere rivolto e in quale fascia di apprendimento può essere posizionato.
+
